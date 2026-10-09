@@ -1,0 +1,445 @@
+{
+  "schema": "ppt-master.svg-quality-report.v1",
+  "stage": "early",
+  "target": "/Users/mac/Documents/zfc最强大脑/F技能库skill/projects/大健康机遇-事业发展框架_20261001",
+  "source_fingerprint": {
+    "algorithm": "sha256",
+    "digest": "7e6a8f2f67de958eb9ae307e2441e4ec3a0bd4aa09afdaab0d9b8699c56f2b96",
+    "file_count": 5,
+    "files": [
+      {
+        "file": "01_cover.svg",
+        "sha256": "82825b1f6b07fd5d761be883e35229ac6a5f865d0a11d1a467e4611bcbd46190"
+      },
+      {
+        "file": "02_framework.svg",
+        "sha256": "4c872a34825300f07fe3a0ebfd9f88e6b943df166d0702d5d59b7bd12c62f25a"
+      },
+      {
+        "file": "03_traffic.svg",
+        "sha256": "8d8f0f32fa3498b6071cbdaf49acdaa151d5041b7ab08c9688f0f1ce43d89a20"
+      },
+      {
+        "file": "04_solutions.svg",
+        "sha256": "1e58600a1e3aa6abbe2855124b31bb0717e4773f9ff43a4c1f91832bb27efd2b"
+      },
+      {
+        "file": "05_demand.svg",
+        "sha256": "14288c80c99d9b709d62d9f5171896accd4ba4214309536d0450b6e4eb911e24"
+      }
+    ]
+  },
+  "summary": {
+    "total": 5,
+    "passed": 3,
+    "warnings": 2,
+    "errors": 0
+  },
+  "issue_types": {},
+  "categories": {
+    "blocking": {
+      "count": 0,
+      "issues": []
+    },
+    "introduced": {
+      "count": 2,
+      "issues": [
+        {
+          "file": "02_framework.svg",
+          "message": "Detected 2 paragraph-like line run(s) split across sibling <text> elements (<g id=\"field-internet\"> x=104.0, y=400.0..428.0, 2 lines; <g id=\"field-health\"> x=780.0, y=400.0..428.0, 2 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy=\"0\". Keep semantically independent text frames separate."
+        },
+        {
+          "file": "04_solutions.svg",
+          "message": "Detected 6 paragraph-like line run(s) split across sibling <text> elements (<g id=\"sol-weight\"> x=100.0, y=362.0..386.0, 2 lines; <g id=\"sol-gout\"> x=489.0, y=362.0..386.0, 2 lines; <g id=\"sol-diabetes\"> x=878.0, y=362.0..386.0, 2 lines; +3 more). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy=\"0\". Keep semantically independent text frames separate."
+        }
+      ]
+    },
+    "inherited": {
+      "count": 0,
+      "issues": []
+    },
+    "source-import": {
+      "count": 0,
+      "summary": {
+        "warning_count": 0,
+        "by_code": {}
+      }
+    }
+  },
+  "drift": {
+    "colors": {},
+    "fonts": {},
+    "sizes": {}
+  },
+  "carrier_receipt": {
+    "scope": "informational-not-a-quota",
+    "pages": 5,
+    "totals": {
+      "text_elements": 70,
+      "image_placements": 0,
+      "icons": 9,
+      "svg_geometry_elements": 19,
+      "preset_shapes": 9,
+      "page_frame_elements": 7,
+      "marker_uses": 0,
+      "inline_emphasis_runs": 0,
+      "gradient_uses": 0,
+      "filter_uses": 0,
+      "text_effects": 0
+    },
+    "pages_with": {
+      "images": 0,
+      "icons": 2,
+      "presets": 2,
+      "charts": 0,
+      "tables": 0,
+      "formulas": 0,
+      "inline_emphasis_runs": 0,
+      "gradient_uses": 0,
+      "filter_uses": 0,
+      "text_effects": 0
+    },
+    "relationship_pages": null,
+    "geometry_elements": {
+      "circle": 3,
+      "ellipse": 0,
+      "line": 2,
+      "path": 0,
+      "polygon": 0,
+      "polyline": 0,
+      "rect": 14
+    },
+    "preset_names": {
+      "rightArrow": 1,
+      "snip2DiagRect": 8
+    },
+    "native_objects": {
+      "chart": 0,
+      "formula_block": 0,
+      "formula_inline": 0,
+      "other": 0,
+      "table": 0
+    },
+    "image_page_max_frame_share_range": []
+  },
+  "project_issues": {
+    "template": [],
+    "animation": [],
+    "illustration": [],
+    "communication_trace": [],
+    "pptx_structure": []
+  },
+  "files": [
+    {
+      "file": "01_cover.svg",
+      "path": "/Users/mac/Documents/zfc最强大脑/F技能库skill/projects/大健康机遇-事业发展框架_20261001/svg_output/01_cover.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 7,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 3,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Arial Black, SimHei",
+          "Microsoft YaHei, Arial",
+          "SimHei, Arial"
+        ],
+        "text_elements": 7,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "82825b1f6b07fd5d761be883e35229ac6a5f865d0a11d1a467e4611bcbd46190"
+    },
+    {
+      "file": "02_framework.svg",
+      "path": "/Users/mac/Documents/zfc最强大脑/F技能库skill/projects/大健康机遇-事业发展框架_20261001/svg_output/02_framework.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Detected 2 paragraph-like line run(s) split across sibling <text> elements (<g id=\"field-internet\"> x=104.0, y=400.0..428.0, 2 lines; <g id=\"field-health\"> x=780.0, y=400.0..428.0, 2 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy=\"0\". Keep semantically independent text frames separate."
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 13,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 3,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 3,
+            "preset_names": {
+              "rightArrow": 1,
+              "snip2DiagRect": 2
+            },
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Arial",
+          "Microsoft YaHei, Arial",
+          "SimHei, Arial"
+        ],
+        "text_elements": 13,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "4c872a34825300f07fe3a0ebfd9f88e6b943df166d0702d5d59b7bd12c62f25a"
+    },
+    {
+      "file": "03_traffic.svg",
+      "path": "/Users/mac/Documents/zfc最强大脑/F技能库skill/projects/大健康机遇-事业发展框架_20261001/svg_output/03_traffic.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 16,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 3,
+              "circle": 3,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Arial",
+          "Arial, SimHei",
+          "Microsoft YaHei, Arial",
+          "SimHei, Arial"
+        ],
+        "text_elements": 16,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "8d8f0f32fa3498b6071cbdaf49acdaa151d5041b7ab08c9688f0f1ce43d89a20"
+    },
+    {
+      "file": "04_solutions.svg",
+      "path": "/Users/mac/Documents/zfc最强大脑/F技能库skill/projects/大健康机遇-事业发展框架_20261001/svg_output/04_solutions.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Detected 6 paragraph-like line run(s) split across sibling <text> elements (<g id=\"sol-weight\"> x=100.0, y=362.0..386.0, 2 lines; <g id=\"sol-gout\"> x=489.0, y=362.0..386.0, 2 lines; <g id=\"sol-diabetes\"> x=878.0, y=362.0..386.0, 2 lines; +3 more). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy=\"0\". Keep semantically independent text frames separate."
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 21,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 6,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 6,
+            "preset_names": {
+              "snip2DiagRect": 6
+            },
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Arial",
+          "Microsoft YaHei, Arial",
+          "SimHei, Arial"
+        ],
+        "text_elements": 21,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "1e58600a1e3aa6abbe2855124b31bb0717e4773f9ff43a4c1f91832bb27efd2b"
+    },
+    {
+      "file": "05_demand.svg",
+      "path": "/Users/mac/Documents/zfc最强大脑/F技能库skill/projects/大健康机遇-事业发展框架_20261001/svg_output/05_demand.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 13,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 3,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 3,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 2,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 3,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Arial",
+          "Arial Black, SimHei",
+          "Microsoft YaHei, Arial",
+          "SimHei, Arial"
+        ],
+        "text_elements": 13,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "14288c80c99d9b709d62d9f5171896accd4ba4214309536d0450b6e4eb911e24"
+    }
+  ]
+}

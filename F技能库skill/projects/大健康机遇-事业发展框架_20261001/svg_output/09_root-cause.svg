@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" data-pptx-page-role="content" font-family="Microsoft YaHei, Arial">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="page-header" data-pptx-bounds="72 66 960 106">
+    <rect id="title-rule" x="72" y="84" width="6" height="30" fill="#D0021B"/>
+    <text x="96" y="110" font-family="SimHei, Arial" font-size="46" fill="#111111">血压高，根在这两件事</text>
+    <text x="72" y="158" font-size="24" fill="#5A5A5A">先看血管壁，再看血管里的内容物</text>
+  </g>
+  <g id="cause-wall" data-pptx-bounds="72 210 520 170">
+    <g id="p09-cause-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip2DiagRect" data-pptx-frame="72 210 520 170" data-pptx-av-adj2="val 8000" fill="#F4F4F2" stroke="none">
+      <path d="M 72 210 L 578.4 210 L 592 223.6 L 592 380 L 592 380 L 85.6 380 L 72 366.4 L 72 210 Z"/>
+    </g>
+    <text x="104" y="252" font-size="18" fill="#D0021B">第一个改变</text>
+    <text x="104" y="302" font-family="SimHei, Arial" font-size="32" fill="#111111">血管壁弹性下降</text>
+    <text x="104" y="348" font-size="24" fill="#111111">血管变硬、变脆，缓冲能力下降</text>
+  </g>
+  <g id="cause-debris" data-pptx-bounds="688 210 520 170">
+    <g id="p09-cause-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip2DiagRect" data-pptx-frame="688 210 520 170" data-pptx-av-adj2="val 8000" fill="#F4F4F2" stroke="none">
+      <path d="M 688 210 L 1194.4 210 L 1208 223.6 L 1208 380 L 1208 380 L 701.6 380 L 688 366.4 L 688 210 Z"/>
+    </g>
+    <text x="720" y="252" font-size="18" fill="#D0021B">第二个改变</text>
+    <text x="720" y="302" font-family="SimHei, Arial" font-size="32" fill="#111111">血管里垃圾沉积</text>
+    <text x="720" y="348" font-size="24" fill="#111111">血脂血糖异常，斑块堆在管壁</text>
+  </g>
+  <line id="converge-left" data-pptx-role="decoration" x1="332" y1="384" x2="620" y2="446" stroke="#D0021B" stroke-width="2"/>
+  <line id="converge-right" data-pptx-role="decoration" x1="948" y1="384" x2="660" y2="446" stroke="#D0021B" stroke-width="2"/>
+  <g id="p09-arrow" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="downArrow" data-pptx-frame="600 448 80 56" fill="#D0021B" stroke="none">
+    <path d="M 600 476 L 620 476 L 620 448 L 660 448 L 660 476 L 680 476 L 640 504 Z"/>
+  </g>
+  <g id="outcome" data-pptx-bounds="72 520 1136 88">
+    <rect id="outcome-band" x="72" y="520" width="1136" height="88" fill="#D0021B" fill-opacity="0.07"/>
+    <text x="640" y="574" font-size="30" fill="#111111" text-anchor="middle">血压升高 —— 同一个结果，两个来源</text>
+  </g>
+  <g id="disclaimer" data-pptx-bounds="72 626 900 22">
+    <text x="72" y="642" font-size="15" fill="#8A8A8A">以上为科普讨论，不构成诊疗建议；个体情况请咨询专业医师</text>
+  </g>
+  <text id="page-number" data-pptx-role="page-number" x="1208" y="676" font-family="Arial" font-size="15" fill="#8A8A8A" text-anchor="end">09 / 16</text>
+</svg>

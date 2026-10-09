@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" data-pptx-page-role="content" font-family="Microsoft YaHei, Arial">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="page-title" data-pptx-bounds="72 66 700 64">
+    <rect id="title-rule" x="72" y="84" width="6" height="30" fill="#D0021B"/>
+    <text x="96" y="110" font-family="SimHei, Arial" font-size="46" fill="#111111">能降压，不等于解决了根本</text>
+  </g>
+  <g id="statement" data-pptx-bounds="120 274 1040 130">
+    <text x="640" y="320" font-family="SimHei, Arial" font-size="46" fill="#111111" text-anchor="middle">没有一种降压药，<tspan x="640" dy="60">是去恢复血管弹性、清理血管垃圾的</tspan></text>
+  </g>
+  <rect id="statement-divider" data-pptx-role="decoration" x="560" y="424" width="160" height="4" fill="#D0021B"/>
+  <g id="annotation" data-pptx-bounds="120 466 1040 44">
+    <text x="640" y="492" font-size="24" fill="#5A5A5A" text-anchor="middle">药物该用还得用；但把希望全押在药上，根上的问题不会自己消失</text>
+  </g>
+  <g id="disclaimer" data-pptx-bounds="72 626 900 22">
+    <text x="72" y="642" font-size="15" fill="#8A8A8A">以上为科普讨论，不构成诊疗建议；高血压需在医生指导下管理</text>
+  </g>
+  <text id="page-number" data-pptx-role="page-number" x="1208" y="676" font-family="Arial" font-size="15" fill="#8A8A8A" text-anchor="end">08 / 16</text>
+</svg>

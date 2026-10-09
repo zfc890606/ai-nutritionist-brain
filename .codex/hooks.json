@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Users/mac/.local/bin/node /Users/mac/Documents/zfc最强大脑/.claude/scripts/sync-nav.js",
+            "timeout": 15
+          }
+        ]
+      }
+    ]
+  }
+}

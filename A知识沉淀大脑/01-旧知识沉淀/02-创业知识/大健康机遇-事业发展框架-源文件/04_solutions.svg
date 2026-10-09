@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" data-pptx-page-role="content" font-family="Microsoft YaHei, Arial">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="page-header" data-pptx-bounds="72 66 960 106">
+    <rect id="title-rule" x="72" y="84" width="6" height="30" fill="#D0021B"/>
+    <text x="96" y="110" font-family="SimHei, Arial" font-size="46" fill="#111111">落地端：六个已经成熟的解决方案</text>
+    <text x="72" y="158" font-size="24" fill="#5A5A5A">卖产品没有前途；做方案才有复购和口碑</text>
+  </g>
+  <g id="sol-weight" data-pptx-bounds="72 210 357 190">
+    <g id="p04-sol-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip2DiagRect" data-pptx-frame="72 210 357 190" data-pptx-av-adj2="val 8000" fill="#F4F4F2" stroke="none">
+      <path d="M 72 210 L 413.8 210 L 429 225.2 L 429 400 L 429 400 L 87.2 400 L 72 384.8 L 72 210 Z"/>
+    </g>
+    <use data-icon="tabler-outline/weight" x="100" y="238" width="40" height="40" fill="#D0021B" stroke-width="2"/>
+    <text x="100" y="328" font-family="SimHei, Arial" font-size="30" fill="#111111">体重与肥胖</text>
+    <text x="100" y="362" font-size="18" fill="#5A5A5A">BMI 与体脂是核心指标<tspan x="100" dy="24">减重就是减负担</tspan></text>
+  </g>
+  <g id="sol-gout" data-pptx-bounds="461 210 357 190">
+    <g id="p04-sol-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip2DiagRect" data-pptx-frame="461 210 357 190" data-pptx-av-adj2="val 8000" fill="#F4F4F2" stroke="none">
+      <path d="M 461 210 L 802.8 210 L 818 225.2 L 818 400 L 818 400 L 476.2 400 L 461 384.8 L 461 210 Z"/>
+    </g>
+    <use data-icon="tabler-outline/bone" x="489" y="238" width="40" height="40" fill="#D0021B" stroke-width="2"/>
+    <text x="489" y="328" font-family="SimHei, Arial" font-size="30" fill="#111111">痛风与高尿酸</text>
+    <text x="489" y="362" font-size="18" fill="#5A5A5A">嘌呤代谢与体重同调<tspan x="489" dy="24">年轻化非常明显</tspan></text>
+  </g>
+  <g id="sol-diabetes" data-pptx-bounds="850 210 357 190">
+    <g id="p04-sol-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip2DiagRect" data-pptx-frame="850 210 357 190" data-pptx-av-adj2="val 8000" fill="#F4F4F2" stroke="none">
+      <path d="M 850 210 L 1191.8 210 L 1207 225.2 L 1207 400 L 1207 400 L 865.2 400 L 850 384.8 L 850 210 Z"/>
+    </g>
+    <use data-icon="tabler-outline/droplet" x="878" y="238" width="40" height="40" fill="#D0021B" stroke-width="2"/>
+    <text x="878" y="328" font-family="SimHei, Arial" font-size="30" fill="#111111">糖尿病</text>
+    <text x="878" y="362" font-size="18" fill="#5A5A5A">血糖管理是长期工程<tspan x="878" dy="24">方案空间很大</tspan></text>
+  </g>
+  <g id="sol-hypertension" data-pptx-bounds="72 430 357 190">
+    <g id="p04-sol-4" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip2DiagRect" data-pptx-frame="72 430 357 190" data-pptx-av-adj2="val 8000" fill="#F4F4F2" stroke="none">
+      <path d="M 72 430 L 413.8 430 L 429 445.2 L 429 620 L 429 620 L 87.2 620 L 72 604.8 L 72 430 Z"/>
+    </g>
+    <use data-icon="tabler-outline/heart-rate-monitor" x="100" y="458" width="40" height="40" fill="#D0021B" stroke-width="2"/>
+    <text x="100" y="548" font-family="SimHei, Arial" font-size="30" fill="#111111">高血压</text>
+    <text x="100" y="582" font-size="18" fill="#5A5A5A">血管弹性与体重双线干预<tspan x="100" dy="24">BMI 是重要指标</tspan></text>
+  </g>
+  <g id="sol-maternal" data-pptx-bounds="461 430 357 190">
+    <g id="p04-sol-5" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip2DiagRect" data-pptx-frame="461 430 357 190" data-pptx-av-adj2="val 8000" fill="#F4F4F2" stroke="none">
+      <path d="M 461 430 L 802.8 430 L 818 445.2 L 818 620 L 818 620 L 476.2 620 L 461 604.8 L 461 430 Z"/>
+    </g>
+    <use data-icon="tabler-outline/baby-carriage" x="489" y="458" width="40" height="40" fill="#D0021B" stroke-width="2"/>
+    <text x="489" y="548" font-family="SimHei, Arial" font-size="30" fill="#111111">妇幼与孕期</text>
+    <text x="489" y="582" font-size="18" fill="#5A5A5A">孕产期营养全程跟进<tspan x="489" dy="24">一个家庭一个入口</tspan></text>
+  </g>
+  <g id="sol-children" data-pptx-bounds="850 430 357 190">
+    <g id="p04-sol-6" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip2DiagRect" data-pptx-frame="850 430 357 190" data-pptx-av-adj2="val 8000" fill="#F4F4F2" stroke="none">
+      <path d="M 850 430 L 1191.8 430 L 1207 445.2 L 1207 620 L 1207 620 L 865.2 620 L 850 604.8 L 850 430 Z"/>
+    </g>
+    <use data-icon="tabler-outline/ruler-measure" x="878" y="458" width="40" height="40" fill="#D0021B" stroke-width="2"/>
+    <text x="878" y="548" font-family="SimHei, Arial" font-size="30" fill="#111111">儿童营养</text>
+    <text x="878" y="582" font-size="18" fill="#5A5A5A">身高管理与视力发育<tspan x="878" dy="24">家长最愿意投入</tspan></text>
+  </g>
+  <text id="page-number" data-pptx-role="page-number" x="1208" y="676" font-family="Arial" font-size="15" fill="#8A8A8A" text-anchor="end">04 / 16</text>
+</svg>

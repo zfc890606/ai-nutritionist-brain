@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" data-pptx-page-role="content" font-family="Microsoft YaHei, Arial">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="page-header" data-pptx-bounds="72 66 960 106">
+    <rect id="title-rule" x="72" y="84" width="6" height="30" fill="#D0021B"/>
+    <text x="96" y="110" font-family="SimHei, Arial" font-size="46" fill="#111111">主流降压药，其实只有三大类</text>
+    <text x="72" y="158" font-size="24" fill="#5A5A5A">医院里开给你的，基本不出这三类的范围</text>
+  </g>
+  <g id="drug-vasodilator" data-pptx-bounds="72 210 360 380">
+    <g id="p07-drug-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip2DiagRect" data-pptx-frame="72 210 360 380" data-pptx-av-adj2="val 8000" fill="#F4F4F2" stroke="none">
+      <path d="M 72 210 L 403.2 210 L 432 238.8 L 432 590 L 432 590 L 100.8 590 L 72 561.2 L 72 210 Z"/>
+    </g>
+    <use data-icon="tabler-outline/heart-plus" x="100" y="242" width="40" height="40" fill="#D0021B" stroke-width="2"/>
+    <text x="100" y="344" font-family="SimHei, Arial" font-size="30" fill="#111111">血管扩张剂</text>
+    <text x="100" y="390" font-size="24" fill="#5A5A5A">硝苯地平这一路</text>
+    <rect id="drug-rule-1" x="100" y="424" width="44" height="3" fill="#D0021B"/>
+    <text x="100" y="474" font-size="24" fill="#111111">把已经变窄的血管撑开</text>
+    <text x="100" y="522" font-size="18" fill="#5A5A5A">血压当场就下来了</text>
+  </g>
+  <g id="drug-diuretic" data-pptx-bounds="460 210 360 380">
+    <g id="p07-drug-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip2DiagRect" data-pptx-frame="460 210 360 380" data-pptx-av-adj2="val 8000" fill="#F4F4F2" stroke="none">
+      <path d="M 460 210 L 791.2 210 L 820 238.8 L 820 590 L 820 590 L 488.8 590 L 460 561.2 L 460 210 Z"/>
+    </g>
+    <use data-icon="tabler-outline/droplet" x="488" y="242" width="40" height="40" fill="#D0021B" stroke-width="2"/>
+    <text x="488" y="344" font-family="SimHei, Arial" font-size="30" fill="#111111">利尿剂</text>
+    <text x="488" y="390" font-size="24" fill="#5A5A5A">呋塞米 · 氢氯噻嗪</text>
+    <rect id="drug-rule-2" x="488" y="424" width="44" height="3" fill="#D0021B"/>
+    <text x="488" y="474" font-size="24" fill="#111111">把血管里的液体排掉</text>
+    <text x="488" y="522" font-size="18" fill="#5A5A5A">容量少了，压力就小</text>
+  </g>
+  <g id="drug-beta-blocker" data-pptx-bounds="848 210 360 380">
+    <g id="p07-drug-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip2DiagRect" data-pptx-frame="848 210 360 380" data-pptx-av-adj2="val 8000" fill="#F4F4F2" stroke="none">
+      <path d="M 848 210 L 1179.2 210 L 1208 238.8 L 1208 590 L 1208 590 L 876.8 590 L 848 561.2 L 848 210 Z"/>
+    </g>
+    <use data-icon="tabler-outline/activity-heartbeat" x="876" y="242" width="40" height="40" fill="#D0021B" stroke-width="2"/>
+    <text x="876" y="344" font-family="SimHei, Arial" font-size="30" fill="#111111">β 受体阻滞剂</text>
+    <text x="876" y="390" font-size="24" fill="#5A5A5A">洛尔类</text>
+    <rect id="drug-rule-3" x="876" y="424" width="44" height="3" fill="#D0021B"/>
+    <text x="876" y="474" font-size="24" fill="#111111">让心脏跳得慢一点</text>
+    <text x="876" y="522" font-size="18" fill="#5A5A5A">冲击小了，血压就低</text>
+  </g>
+  <g id="disclaimer" data-pptx-bounds="72 626 900 22">
+    <text x="72" y="642" font-size="15" fill="#8A8A8A">以上为营养与生活方式视角的科普讨论，不构成诊疗建议；用药请遵医嘱</text>
+  </g>
+  <text id="page-number" data-pptx-role="page-number" x="1208" y="676" font-family="Arial" font-size="15" fill="#8A8A8A" text-anchor="end">07 / 16</text>
+</svg>

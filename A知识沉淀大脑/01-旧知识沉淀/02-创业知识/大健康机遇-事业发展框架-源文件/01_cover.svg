@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" data-pptx-page-role="cover" font-family="Microsoft YaHei, Arial">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="cover-hero" data-pptx-bounds="72 150 566 320">
+    <rect id="cover-rule" x="72" y="196" width="72" height="6" fill="#D0021B"/>
+    <text x="72" y="170" font-size="18" letter-spacing="4" fill="#5A5A5A">事业发展框架 · 内部说明</text>
+    <text x="72" y="310" font-family="Arial Black, SimHei" font-size="104" fill="#111111">大健康机遇</text>
+    <text x="72" y="400" font-family="SimHei, Arial" font-size="32" fill="#111111">互联网获客 × 慢病解决方案</text>
+    <text x="72" y="452" font-size="30" fill="#5A5A5A">医生只能控指标，我们回到源头</text>
+  </g>
+  <g id="cover-hook" data-pptx-bounds="900 218 236 164">
+    <rect id="cover-hook-rule" x="900" y="220" width="236" height="2" fill="#D8D8D8"/>
+    <text x="900" y="330" font-family="Arial Black, SimHei" font-size="84" fill="#D0021B">7亿</text>
+    <text x="900" y="372" font-size="18" fill="#5A5A5A">中国成人超重与肥胖人群</text>
+  </g>
+  <g id="cover-footer" data-pptx-bounds="72 650 860 24">
+    <text x="72" y="668" font-size="15" fill="#8A8A8A">张医生 · AI营养师｜本页为事业发展框架分享，涉及健康内容不构成诊疗建议</text>
+  </g>
+</svg>

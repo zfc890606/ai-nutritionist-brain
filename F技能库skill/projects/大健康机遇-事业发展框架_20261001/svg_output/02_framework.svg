@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" data-pptx-page-role="content" font-family="Microsoft YaHei, Arial">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="page-title" data-pptx-bounds="72 66 760 64">
+    <rect id="title-rule" x="72" y="84" width="6" height="30" fill="#D0021B"/>
+    <text x="96" y="110" font-family="SimHei, Arial" font-size="46" fill="#111111">本质就两块：互联网 + 大健康</text>
+  </g>
+  <g id="field-internet" data-pptx-bounds="72 200 460 320">
+    <g id="p02-field-internet" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip2DiagRect" data-pptx-frame="72 200 460 320" data-pptx-av-adj2="val 8000" fill="#F4F4F2" stroke="none">
+      <path d="M 72 200 L 506.4 200 L 532 225.6 L 532 520 L 532 520 L 97.6 520 L 72 494.4 L 72 200 Z"/>
+    </g>
+    <text x="104" y="252" font-size="18" fill="#D0021B">第一块 · 获客</text>
+    <text x="104" y="302" font-family="SimHei, Arial" font-size="32" fill="#111111">互联网</text>
+    <text x="104" y="356" font-size="24" fill="#111111">公域流量 · 社群运营</text>
+    <text x="104" y="400" font-size="18" fill="#5A5A5A">把陌生人变成关注者，<tspan x="104" dy="26">再变成能持续触达的人</tspan></text>
+  </g>
+  <g id="field-health" data-pptx-bounds="748 200 460 320">
+    <g id="p02-field-health" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip2DiagRect" data-pptx-frame="748 200 460 320" data-pptx-av-adj2="val 8000" fill="#F4F4F2" stroke="none">
+      <path d="M 748 200 L 1182.4 200 L 1208 225.6 L 1208 520 L 1208 520 L 773.6 520 L 748 494.4 L 748 200 Z"/>
+    </g>
+    <text x="780" y="252" font-size="18" fill="#D0021B">第二块 · 落地</text>
+    <text x="780" y="302" font-family="SimHei, Arial" font-size="32" fill="#111111">大健康</text>
+    <text x="780" y="356" font-size="24" fill="#111111">做解决方案 · 不卖产品</text>
+    <text x="780" y="400" font-size="18" fill="#5A5A5A">卖产品没有前途，<tspan x="780" dy="26">方案才有复购和口碑</tspan></text>
+  </g>
+  <g id="p02-link-arrow" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="rightArrow" data-pptx-frame="566 330 148 60" fill="#D0021B" stroke="none">
+    <path d="M 566 345 L 684 345 L 684 330 L 714 360 L 684 390 L 684 375 L 566 375 Z"/>
+  </g>
+  <g id="takeaway" data-pptx-bounds="72 560 1136 76">
+    <rect id="takeaway-band" x="72" y="560" width="1136" height="76" fill="#D0021B" fill-opacity="0.07"/>
+    <text x="104" y="608" font-size="30" fill="#111111">引流进来，必须有人接得住 —— 落地才是生意</text>
+  </g>
+  <text id="page-number" data-pptx-role="page-number" x="1208" y="676" font-family="Arial" font-size="15" fill="#8A8A8A" text-anchor="end">02 / 16</text>
+</svg>

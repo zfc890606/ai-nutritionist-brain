@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" data-pptx-page-role="ending" font-family="Microsoft YaHei, Arial">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="closing-kicker" data-pptx-bounds="72 184 500 26">
+    <text x="72" y="200" font-size="18" fill="#D0021B" letter-spacing="4">一句话总结</text>
+  </g>
+  <g id="closing-statement" data-pptx-bounds="72 254 1000 196">
+    <text x="72" y="300" font-family="SimHei, Arial" font-size="46" fill="#111111">互联网负责把人带进来，<tspan x="72" dy="64">大健康负责把人留下来，</tspan><tspan x="72" dy="64">安利负责让你做得大。</tspan></text>
+  </g>
+  <g id="echo-traffic" data-pptx-bounds="72 552 360 66">
+    <rect id="echo-rule-1" x="72" y="552" width="44" height="4" fill="#D0021B"/>
+    <text x="72" y="600" font-family="SimHei, Arial" font-size="24" fill="#111111">互联网 · 获客</text>
+  </g>
+  <g id="echo-health" data-pptx-bounds="460 552 360 66">
+    <rect id="echo-rule-2" x="460" y="552" width="44" height="4" fill="#D0021B"/>
+    <text x="460" y="600" font-family="SimHei, Arial" font-size="24" fill="#111111">大健康 · 解决方案</text>
+  </g>
+  <g id="echo-platform" data-pptx-bounds="848 552 360 66">
+    <rect id="echo-rule-3" x="848" y="552" width="44" height="4" fill="#D0021B"/>
+    <text x="848" y="600" font-family="SimHei, Arial" font-size="24" fill="#111111">平台 · 工具与人才</text>
+  </g>
+  <g id="closing-footer" data-pptx-bounds="72 650 900 24">
+    <text x="72" y="668" font-size="15" fill="#8A8A8A">张医生 · AI营养师｜本页为事业发展框架分享，涉及健康内容不构成诊疗建议</text>
+  </g>
+  <text id="page-number" data-pptx-role="page-number" x="1208" y="676" font-family="Arial" font-size="15" fill="#8A8A8A" text-anchor="end">16 / 16</text>
+</svg>

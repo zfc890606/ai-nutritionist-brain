@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" data-pptx-page-role="content" font-family="Microsoft YaHei, Arial">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="page-title" data-pptx-bounds="72 66 760 64">
+    <rect id="title-rule" x="72" y="84" width="6" height="30" fill="#D0021B"/>
+    <text x="96" y="110" font-family="SimHei, Arial" font-size="46" fill="#111111">为什么一定是慢病，不是配餐</text>
+  </g>
+  <g id="field-meal" data-pptx-bounds="72 260 520 200">
+    <rect id="field-meal-bg" x="72" y="260" width="520" height="200" fill="#F4F4F2"/>
+    <text x="104" y="350" font-family="SimHei, Arial" font-size="46" fill="#111111">配餐</text>
+    <text x="104" y="404" font-size="24" fill="#5A5A5A">没有痛点</text>
+  </g>
+  <line id="contrast-divider" data-pptx-role="decoration" x1="640" y1="260" x2="640" y2="460" stroke="#D8D8D8" stroke-width="2"/>
+  <g id="field-chronic" data-pptx-bounds="688 260 520 200">
+    <rect id="field-chronic-bg" x="688" y="260" width="520" height="200" fill="#D0021B" fill-opacity="0.07"/>
+    <text x="720" y="350" font-family="SimHei, Arial" font-size="46" fill="#111111">慢病</text>
+    <text x="720" y="404" font-size="24" fill="#5A5A5A">过亿人的刚需</text>
+  </g>
+  <g id="closing" data-pptx-bounds="120 520 1040 60">
+    <text x="640" y="560" font-size="30" fill="#111111" text-anchor="middle">走配餐没有前途；走慢病，才有大前景</text>
+  </g>
+  <text id="page-number" data-pptx-role="page-number" x="1208" y="676" font-family="Arial" font-size="15" fill="#8A8A8A" text-anchor="end">13 / 16</text>
+</svg>

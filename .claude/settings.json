@@ -1,0 +1,51 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(sort -t'-' -k3 -n)",
+      "Skill(wewrite)",
+      "Skill(wewrite:*)",
+      "Bash(wewrite publish *)",
+      "Bash(curl -s ifconfig.me)",
+      "Bash(python3 -c ' *)",
+      "Bash(python3)",
+      "Skill(humanizer-zh)",
+      "Skill(humanizer-zh:*)",
+      "Skill(fewer-permission-prompts)",
+      "Skill(fewer-permission-prompts:*)",
+      "Bash(python3 -m content_risk_detector /tmp/script_to_check.txt)",
+      "Bash(python3 scripts/detect.py /tmp/script_to_check.txt)",
+      "Read(/Users/mac/Documents/zfc最强大脑/.claude/settings.json)",
+      "Edit(/Users/mac/Documents/zfc最强大脑/.claude/settings.json)",
+      "Write(/Users/mac/Documents/zfc最强大脑/.claude/settings.json)",
+      "Read(/Users/mac/Documents/zfc最强大脑/.claude/scripts/**)",
+      "Edit(/Users/mac/Documents/zfc最强大脑/.claude/scripts/**)",
+      "Write(/Users/mac/Documents/zfc最强大脑/.claude/scripts/**)"
+    ]
+  },
+  "mcpServers": {
+    "obsidian-vault": {
+      "command": "/Users/mac/.workbuddy/binaries/node/versions/22.22.2/bin/npx",
+      "args": [
+        "-y",
+        "@istrejo/obsidian-mcp"
+      ],
+      "env": {
+        "OBSIDIAN_VAULT_PATH": "/Users/mac/Documents/zfc最强大脑"
+      }
+    }
+  },
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Users/mac/.local/bin/node /Users/mac/Documents/zfc最强大脑/.claude/scripts/sync-nav.js",
+            "timeout": 15
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" data-pptx-page-role="content" font-family="Microsoft YaHei, Arial">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="page-header" data-pptx-bounds="72 66 1000 106">
+    <rect id="title-rule" x="72" y="84" width="6" height="30" fill="#D0021B"/>
+    <text x="96" y="110" font-family="SimHei, Arial" font-size="46" fill="#111111">服务一个客户，是这样走完的</text>
+    <text x="72" y="158" font-size="24" fill="#5A5A5A">从第一句话，到一个愿意帮你说话的顾客</text>
+  </g>
+  <g id="step-logic" data-pptx-bounds="72 294 188 182">
+    <line id="seg-1" x1="72" y1="380" x2="260" y2="380" stroke="#D8D8D8" stroke-width="2"/>
+    <circle cx="166" cy="380" r="30" fill="#D0021B"/>
+    <text x="166" y="388" font-size="24" fill="#FFFFFF" text-anchor="middle">01</text>
+    <text x="166" y="320" font-family="SimHei, Arial" font-size="24" fill="#111111" text-anchor="middle">讲逻辑</text>
+    <text x="166" y="440" font-size="18" fill="#5A5A5A" text-anchor="middle">先讲清楚原理<tspan x="166" dy="26">不直接推产品</tspan></text>
+  </g>
+  <g id="step-plan" data-pptx-bounds="260 294 188 182">
+    <line id="seg-2" x1="260" y1="380" x2="448" y2="380" stroke="#D8D8D8" stroke-width="2"/>
+    <circle cx="354" cy="380" r="30" fill="#D0021B"/>
+    <text x="354" y="388" font-size="24" fill="#FFFFFF" text-anchor="middle">02</text>
+    <text x="354" y="320" font-family="SimHei, Arial" font-size="24" fill="#111111" text-anchor="middle">出方案</text>
+    <text x="354" y="440" font-size="18" fill="#5A5A5A" text-anchor="middle">生活方式与营养<tspan x="354" dy="26">一份可执行方案</tspan></text>
+  </g>
+  <g id="step-coach" data-pptx-bounds="448 294 188 182">
+    <line id="seg-3" x1="448" y1="380" x2="636" y2="380" stroke="#D8D8D8" stroke-width="2"/>
+    <circle cx="542" cy="380" r="30" fill="#D0021B"/>
+    <text x="542" y="388" font-size="24" fill="#FFFFFF" text-anchor="middle">03</text>
+    <text x="542" y="320" font-family="SimHei, Arial" font-size="24" fill="#111111" text-anchor="middle">陪跑</text>
+    <text x="542" y="440" font-size="18" fill="#5A5A5A" text-anchor="middle">建服务群陪跑<tspan x="542" dy="26">过程中随时调整</tspan></text>
+  </g>
+  <g id="step-result" data-pptx-bounds="636 294 188 182">
+    <line id="seg-4" x1="636" y1="380" x2="824" y2="380" stroke="#D8D8D8" stroke-width="2"/>
+    <circle cx="730" cy="380" r="30" fill="#D0021B"/>
+    <text x="730" y="388" font-size="24" fill="#FFFFFF" text-anchor="middle">04</text>
+    <text x="730" y="320" font-family="SimHei, Arial" font-size="24" fill="#111111" text-anchor="middle">见改善</text>
+    <text x="730" y="440" font-size="18" fill="#5A5A5A" text-anchor="middle">3–6 个月后<tspan x="730" dy="26">指标和体感都变</tspan></text>
+  </g>
+  <g id="step-koc" data-pptx-bounds="824 294 188 182">
+    <line id="seg-5" x1="824" y1="380" x2="1012" y2="380" stroke="#D8D8D8" stroke-width="2"/>
+    <circle cx="918" cy="380" r="30" fill="#D0021B"/>
+    <text x="918" y="388" font-size="24" fill="#FFFFFF" text-anchor="middle">05</text>
+    <text x="918" y="320" font-family="SimHei, Arial" font-size="24" fill="#111111" text-anchor="middle">成口碑</text>
+    <text x="918" y="440" font-size="18" fill="#5A5A5A" text-anchor="middle">他会介绍朋友<tspan x="918" dy="26">慢慢变成 KOC</tspan></text>
+  </g>
+  <g id="step-partner" data-pptx-bounds="1012 294 188 182">
+    <line id="seg-6" x1="1012" y1="380" x2="1200" y2="380" stroke="#D8D8D8" stroke-width="2"/>
+    <circle cx="1106" cy="380" r="30" fill="#D0021B"/>
+    <text x="1106" y="388" font-size="24" fill="#FFFFFF" text-anchor="middle">06</text>
+    <text x="1106" y="320" font-family="SimHei, Arial" font-size="24" fill="#111111" text-anchor="middle">成伙伴</text>
+    <text x="1106" y="440" font-size="18" fill="#5A5A5A" text-anchor="middle">从顾客到伙伴<tspan x="1106" dy="26">开始跟着一起做</tspan></text>
+  </g>
+  <g id="takeaway" data-pptx-bounds="72 540 1136 72">
+    <rect id="takeaway-band" x="72" y="540" width="1136" height="72" fill="#D0021B" fill-opacity="0.07"/>
+    <text x="104" y="586" font-size="30" fill="#111111">三个月到半年，一个改善的顾客就是最硬的证据</text>
+  </g>
+  <text id="page-number" data-pptx-role="page-number" x="1208" y="676" font-family="Arial" font-size="15" fill="#8A8A8A" text-anchor="end">12 / 16</text>
+</svg>

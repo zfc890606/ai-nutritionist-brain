@@ -1,0 +1,1151 @@
+{
+  "schema": "ppt-master.svg-quality-report.v1",
+  "stage": "final",
+  "target": "/Users/mac/Documents/zfc最强大脑/F技能库skill/projects/大健康机遇-事业发展框架_20261001",
+  "source_fingerprint": {
+    "algorithm": "sha256",
+    "digest": "cdd2bdf59e49bbd56f1cf42b63a1dc9d283a2b387b2e6a5f43ed20824ce64af1",
+    "file_count": 16,
+    "files": [
+      {
+        "file": "01_cover.svg",
+        "sha256": "82825b1f6b07fd5d761be883e35229ac6a5f865d0a11d1a467e4611bcbd46190"
+      },
+      {
+        "file": "02_framework.svg",
+        "sha256": "eeb09ab8bff932721a4066fa5ce53cb34e22b7db2737f05fd4dc8fb4dec9a940"
+      },
+      {
+        "file": "03_traffic.svg",
+        "sha256": "8d8f0f32fa3498b6071cbdaf49acdaa151d5041b7ab08c9688f0f1ce43d89a20"
+      },
+      {
+        "file": "04_solutions.svg",
+        "sha256": "b812560542579c2271643bca944b1b725690182cde03afe5f9720452d44f115e"
+      },
+      {
+        "file": "05_demand.svg",
+        "sha256": "14288c80c99d9b709d62d9f5171896accd4ba4214309536d0450b6e4eb911e24"
+      },
+      {
+        "file": "06_doctor.svg",
+        "sha256": "b3d8c7c6ddc3ebb3dc9b4c7cc1c2fdf4f3fd956d3c1272e3b76e043e4530a147"
+      },
+      {
+        "file": "07_drugs.svg",
+        "sha256": "9790c13454f2f4130eac4be24330d6bd14a21cde973625aee5995078a7566402"
+      },
+      {
+        "file": "08_limit.svg",
+        "sha256": "b5971de9e2031c8434e806197cd227ff2c855d67697cb214c02031e0d49a3e40"
+      },
+      {
+        "file": "09_root-cause.svg",
+        "sha256": "3725277892d25bc4b71ab3461fbbec053ab376fd536ee5580c86b54e69a53cfb"
+      },
+      {
+        "file": "10_lifestyle.svg",
+        "sha256": "d1f59d39721eea536a29f0ab45ed5b3e559d576a05c8e3eb5ab8b019f2740e80"
+      },
+      {
+        "file": "11_gap.svg",
+        "sha256": "3afdfc8d75a3fc29d9c57ebbf0aabb385bd94de2c7f555dfbabd4ca008bef443"
+      },
+      {
+        "file": "12_customer-path.svg",
+        "sha256": "7f06b48b83856d1be5a814c9815f0006b5a4b33bcf80d1f972bef1974d0bdcc5"
+      },
+      {
+        "file": "13_why-chronic.svg",
+        "sha256": "56ffec2dbc6d5efd1218b6614b18c554770427b7a5f9783b866c6ac8cbfbc205"
+      },
+      {
+        "file": "14_amway-tools.svg",
+        "sha256": "d368482b01457ac020a3fb90b96bcc8aaeb93c56def2efbd55d7d0d616a6df61"
+      },
+      {
+        "file": "15_amway-people.svg",
+        "sha256": "1df5399b4dbf856bc0daeac8dd56e9f27d9b82b06457081564434909bba1b3e0"
+      },
+      {
+        "file": "16_closing.svg",
+        "sha256": "7fe50c7567a137a85a0c6e2c4d68db79e61ab987ff4236924bc24a488a5f2b82"
+      }
+    ]
+  },
+  "summary": {
+    "total": 16,
+    "passed": 16,
+    "warnings": 0,
+    "errors": 0
+  },
+  "issue_types": {},
+  "categories": {
+    "blocking": {
+      "count": 0,
+      "issues": []
+    },
+    "introduced": {
+      "count": 0,
+      "issues": []
+    },
+    "inherited": {
+      "count": 0,
+      "issues": []
+    },
+    "source-import": {
+      "count": 0,
+      "summary": {
+        "warning_count": 0,
+        "by_code": {}
+      }
+    }
+  },
+  "drift": {
+    "colors": {},
+    "fonts": {},
+    "sizes": {}
+  },
+  "carrier_receipt": {
+    "scope": "informational-not-a-quota",
+    "pages": 16,
+    "totals": {
+      "text_elements": 183,
+      "image_placements": 0,
+      "icons": 13,
+      "svg_geometry_elements": 84,
+      "preset_shapes": 21,
+      "page_frame_elements": 22,
+      "marker_uses": 0,
+      "inline_emphasis_runs": 2,
+      "gradient_uses": 0,
+      "filter_uses": 0,
+      "text_effects": 0
+    },
+    "pages_with": {
+      "images": 0,
+      "icons": 4,
+      "presets": 8,
+      "charts": 0,
+      "tables": 0,
+      "formulas": 0,
+      "inline_emphasis_runs": 2,
+      "gradient_uses": 0,
+      "filter_uses": 0,
+      "text_effects": 0
+    },
+    "relationship_pages": null,
+    "geometry_elements": {
+      "circle": 9,
+      "ellipse": 0,
+      "line": 11,
+      "path": 0,
+      "polygon": 0,
+      "polyline": 0,
+      "rect": 64
+    },
+    "preset_names": {
+      "downArrow": 3,
+      "leftRightArrow": 1,
+      "rightArrow": 1,
+      "snip2DiagRect": 16
+    },
+    "native_objects": {
+      "chart": 0,
+      "formula_block": 0,
+      "formula_inline": 0,
+      "other": 0,
+      "table": 0
+    },
+    "image_page_max_frame_share_range": []
+  },
+  "project_issues": {
+    "template": [],
+    "animation": [],
+    "illustration": [],
+    "communication_trace": [],
+    "pptx_structure": []
+  },
+  "files": [
+    {
+      "file": "01_cover.svg",
+      "path": "/Users/mac/Documents/zfc最强大脑/F技能库skill/projects/大健康机遇-事业发展框架_20261001/svg_output/01_cover.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 7,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 3,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Arial Black, SimHei",
+          "Microsoft YaHei, Arial",
+          "SimHei, Arial"
+        ],
+        "text_elements": 7,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "82825b1f6b07fd5d761be883e35229ac6a5f865d0a11d1a467e4611bcbd46190"
+    },
+    {
+      "file": "02_framework.svg",
+      "path": "/Users/mac/Documents/zfc最强大脑/F技能库skill/projects/大健康机遇-事业发展框架_20261001/svg_output/02_framework.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 11,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 3,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 3,
+            "preset_names": {
+              "rightArrow": 1,
+              "snip2DiagRect": 2
+            },
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Arial",
+          "Microsoft YaHei, Arial",
+          "SimHei, Arial"
+        ],
+        "text_elements": 11,
+        "tspan_elements": 2
+      },
+      "passed": true,
+      "source_sha256": "eeb09ab8bff932721a4066fa5ce53cb34e22b7db2737f05fd4dc8fb4dec9a940"
+    },
+    {
+      "file": "03_traffic.svg",
+      "path": "/Users/mac/Documents/zfc最强大脑/F技能库skill/projects/大健康机遇-事业发展框架_20261001/svg_output/03_traffic.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 16,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 3,
+              "circle": 3,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Arial",
+          "Arial, SimHei",
+          "Microsoft YaHei, Arial",
+          "SimHei, Arial"
+        ],
+        "text_elements": 16,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "8d8f0f32fa3498b6071cbdaf49acdaa151d5041b7ab08c9688f0f1ce43d89a20"
+    },
+    {
+      "file": "04_solutions.svg",
+      "path": "/Users/mac/Documents/zfc最强大脑/F技能库skill/projects/大健康机遇-事业发展框架_20261001/svg_output/04_solutions.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 15,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 6,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 6,
+            "preset_names": {
+              "snip2DiagRect": 6
+            },
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Arial",
+          "Microsoft YaHei, Arial",
+          "SimHei, Arial"
+        ],
+        "text_elements": 15,
+        "tspan_elements": 6
+      },
+      "passed": true,
+      "source_sha256": "b812560542579c2271643bca944b1b725690182cde03afe5f9720452d44f115e"
+    },
+    {
+      "file": "05_demand.svg",
+      "path": "/Users/mac/Documents/zfc最强大脑/F技能库skill/projects/大健康机遇-事业发展框架_20261001/svg_output/05_demand.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 13,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 3,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 3,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 2,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 3,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Arial",
+          "Arial Black, SimHei",
+          "Microsoft YaHei, Arial",
+          "SimHei, Arial"
+        ],
+        "text_elements": 13,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "14288c80c99d9b709d62d9f5171896accd4ba4214309536d0450b6e4eb911e24"
+    },
+    {
+      "file": "06_doctor.svg",
+      "path": "/Users/mac/Documents/zfc最强大脑/F技能库skill/projects/大健康机遇-事业发展框架_20261001/svg_output/06_doctor.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 7,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 6,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 2,
+            "preset_names": {
+              "downArrow": 2
+            },
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Arial",
+          "Microsoft YaHei, Arial",
+          "SimHei, Arial"
+        ],
+        "text_elements": 7,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "b3d8c7c6ddc3ebb3dc9b4c7cc1c2fdf4f3fd956d3c1272e3b76e043e4530a147"
+    },
+    {
+      "file": "07_drugs.svg",
+      "path": "/Users/mac/Documents/zfc最强大脑/F技能库skill/projects/大健康机遇-事业发展框架_20261001/svg_output/07_drugs.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 16,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 3,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 5,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 3,
+            "preset_names": {
+              "snip2DiagRect": 3
+            },
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Arial",
+          "Microsoft YaHei, Arial",
+          "SimHei, Arial"
+        ],
+        "text_elements": 16,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "9790c13454f2f4130eac4be24330d6bd14a21cde973625aee5995078a7566402"
+    },
+    {
+      "file": "08_limit.svg",
+      "path": "/Users/mac/Documents/zfc最强大脑/F技能库skill/projects/大健康机遇-事业发展框架_20261001/svg_output/08_limit.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 5,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 3,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 2,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Arial",
+          "Microsoft YaHei, Arial",
+          "SimHei, Arial"
+        ],
+        "text_elements": 5,
+        "tspan_elements": 1
+      },
+      "passed": true,
+      "source_sha256": "b5971de9e2031c8434e806197cd227ff2c855d67697cb214c02031e0d49a3e40"
+    },
+    {
+      "file": "09_root-cause.svg",
+      "path": "/Users/mac/Documents/zfc最强大脑/F技能库skill/projects/大健康机遇-事业发展框架_20261001/svg_output/09_root-cause.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 11,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 3,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 2,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 3,
+            "preset_names": {
+              "downArrow": 1,
+              "snip2DiagRect": 2
+            },
+            "page_frame_elements": 3,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Arial",
+          "Microsoft YaHei, Arial",
+          "SimHei, Arial"
+        ],
+        "text_elements": 11,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "3725277892d25bc4b71ab3461fbbec053ab376fd536ee5580c86b54e69a53cfb"
+    },
+    {
+      "file": "10_lifestyle.svg",
+      "path": "/Users/mac/Documents/zfc最强大脑/F技能库skill/projects/大健康机遇-事业发展框架_20261001/svg_output/10_lifestyle.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 13,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 9,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Arial",
+          "Microsoft YaHei, Arial",
+          "SimHei, Arial"
+        ],
+        "text_elements": 13,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "d1f59d39721eea536a29f0ab45ed5b3e559d576a05c8e3eb5ab8b019f2740e80"
+    },
+    {
+      "file": "11_gap.svg",
+      "path": "/Users/mac/Documents/zfc最强大脑/F技能库skill/projects/大健康机遇-事业发展框架_20261001/svg_output/11_gap.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 11,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 1,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 5,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 1,
+            "preset_names": {
+              "leftRightArrow": 1
+            },
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Arial",
+          "Microsoft YaHei, Arial",
+          "SimHei, Arial"
+        ],
+        "text_elements": 11,
+        "tspan_elements": 5
+      },
+      "passed": true,
+      "source_sha256": "3afdfc8d75a3fc29d9c57ebbf0aabb385bd94de2c7f555dfbabd4ca008bef443"
+    },
+    {
+      "file": "12_customer-path.svg",
+      "path": "/Users/mac/Documents/zfc最强大脑/F技能库skill/projects/大健康机遇-事业发展框架_20261001/svg_output/12_customer-path.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 22,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 3,
+              "circle": 6,
+              "ellipse": 0,
+              "line": 6,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Arial",
+          "Microsoft YaHei, Arial",
+          "SimHei, Arial"
+        ],
+        "text_elements": 22,
+        "tspan_elements": 6
+      },
+      "passed": true,
+      "source_sha256": "7f06b48b83856d1be5a814c9815f0006b5a4b33bcf80d1f972bef1974d0bdcc5"
+    },
+    {
+      "file": "13_why-chronic.svg",
+      "path": "/Users/mac/Documents/zfc最强大脑/F技能库skill/projects/大健康机遇-事业发展框架_20261001/svg_output/13_why-chronic.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 7,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 4,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 1,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 2,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Arial",
+          "Microsoft YaHei, Arial",
+          "SimHei, Arial"
+        ],
+        "text_elements": 7,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "56ffec2dbc6d5efd1218b6614b18c554770427b7a5f9783b866c6ac8cbfbc205"
+    },
+    {
+      "file": "14_amway-tools.svg",
+      "path": "/Users/mac/Documents/zfc最强大脑/F技能库skill/projects/大健康机遇-事业发展框架_20261001/svg_output/14_amway-tools.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 11,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 1,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 5,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 1,
+            "preset_names": {
+              "snip2DiagRect": 1
+            },
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Arial",
+          "Microsoft YaHei, Arial",
+          "SimHei, Arial"
+        ],
+        "text_elements": 11,
+        "tspan_elements": 1
+      },
+      "passed": true,
+      "source_sha256": "d368482b01457ac020a3fb90b96bcc8aaeb93c56def2efbd55d7d0d616a6df61"
+    },
+    {
+      "file": "15_amway-people.svg",
+      "path": "/Users/mac/Documents/zfc最强大脑/F技能库skill/projects/大健康机遇-事业发展框架_20261001/svg_output/15_amway-people.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 11,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 1,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 3,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 2,
+            "preset_names": {
+              "snip2DiagRect": 2
+            },
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Arial",
+          "Microsoft YaHei, Arial",
+          "SimHei, Arial"
+        ],
+        "text_elements": 11,
+        "tspan_elements": 2
+      },
+      "passed": true,
+      "source_sha256": "1df5399b4dbf856bc0daeac8dd56e9f27d9b82b06457081564434909bba1b3e0"
+    },
+    {
+      "file": "16_closing.svg",
+      "path": "/Users/mac/Documents/zfc最强大脑/F技能库skill/projects/大健康机遇-事业发展框架_20261001/svg_output/16_closing.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 7,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 4,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Arial",
+          "Microsoft YaHei, Arial",
+          "SimHei, Arial"
+        ],
+        "text_elements": 7,
+        "tspan_elements": 2
+      },
+      "passed": true,
+      "source_sha256": "7fe50c7567a137a85a0c6e2c4d68db79e61ab987ff4236924bc24a488a5f2b82"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Obsidian workspace (auto-generated)
+.obsidian/workspace.json
+.obsidian/workspace
+
+# Obsidian plugin runtime state (may contain API keys / private keys)
+.obsidian/plugins/*/data.json
+.obsidian/plugins/*/data.json.bak
+
+# Obsidian 配置自动备份（机器相关，不入库）
+.obsidian/*.bak*
+
+# Claude 会话记录（隐私，不入库）
+.claudian/
+
+# Claude 配置自动备份（机器相关，不入库）
+.claude/backup/
+
+# Wiki 备份产物
+.wiki-backup-*/
+
+# Large binary files
+*.pptx
+*.ppt
+*.MP4
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.pdf
+*.psd
+*.ai
+*.xlsx
+*.xls
+*.docx
+*.doc
+*.exe
+*.dmg
+*.pkg
+*.zip
+*.tar.gz
+
+# Python/Node
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# Temp files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Obsidian 临时空白笔记（误触 Ctrl+N 产物，不入库）
+Untitled.md
+
+# Obsidian 回收站（本地删除产物，不入库）
+.trash/
+
+# 飞书文案库同步（含 App Secret，不入库）
+99-独立内容/飞书文案库同步/config.json
+99-独立内容/飞书文案库同步/.sync_state.json
+A知识沉淀大脑/03-飞书笔记存档/飞书文案库同步/config.json
+A知识沉淀大脑/03-飞书笔记存档/飞书文案库同步/.sync_state.json
+99-独立内容/飞书文案库同步/config.json.bak
+99-独立内容/飞书文案库同步/.sync_state.json.bak
+A知识沉淀大脑/03-飞书笔记存档/飞书文案库同步/config.json.bak
+A知识沉淀大脑/03-飞书笔记存档/飞书文案库同步/.sync_state.json.bak
+
+# 第三方工具 social-auto-upload（上游仓库·含账号配置与 cookies，不入库，需要时重新 clone）
+05-Skills（技能sop）/短视频方法库/内容发布类/social-auto-upload/
+F技能库skill/短视频方法库/内容发布类/social-auto-upload/

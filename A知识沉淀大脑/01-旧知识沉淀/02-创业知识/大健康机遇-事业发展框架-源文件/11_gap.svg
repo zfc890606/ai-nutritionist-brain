@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" data-pptx-page-role="content" font-family="Microsoft YaHei, Arial">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="page-header" data-pptx-bounds="72 66 1000 106">
+    <rect id="title-rule" x="72" y="84" width="6" height="30" fill="#D0021B"/>
+    <text x="96" y="110" font-family="SimHei, Arial" font-size="46" fill="#111111">机会就在这道信息差里</text>
+    <text x="72" y="158" font-size="24" fill="#5A5A5A">老百姓不知道，医生也没时间讲 —— 这正是我们的空间</text>
+  </g>
+  <g id="side-public" data-pptx-bounds="72 210 460 260">
+    <rect id="side-public-bg" x="72" y="210" width="460" height="260" fill="#F4F4F2"/>
+    <text x="104" y="264" font-family="SimHei, Arial" font-size="30" fill="#111111">大众的认知</text>
+    <text x="104" y="322" font-size="24" fill="#111111">出问题 → 找医生<tspan x="104" dy="36">医生 → 开药</tspan><tspan x="104" dy="36">以为这就解决了</tspan></text>
+  </g>
+  <g id="gap-mark" data-pptx-bounds="584 262 112 114">
+    <text x="640" y="284" font-size="18" fill="#D0021B" text-anchor="middle">信息差</text>
+    <g id="p11-gap-arrow" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="leftRightArrow" data-pptx-frame="584 320 112 56" fill="#D0021B" stroke="none">
+      <path d="M 584 348 L 612 320 L 612 334 L 668 334 L 668 320 L 696 348 L 668 376 L 668 362 L 612 362 L 612 376 Z"/>
+    </g>
+  </g>
+  <g id="side-nutrition" data-pptx-bounds="748 210 460 260">
+    <rect id="side-nutrition-bg" x="748" y="210" width="460" height="260" fill="#D0021B" fill-opacity="0.07"/>
+    <text x="780" y="264" font-family="SimHei, Arial" font-size="30" fill="#111111">营养干预的视角</text>
+    <text x="780" y="322" font-size="24" fill="#111111">追到生活方式<tspan x="780" dy="36">营养 + 行为干预</tspan><tspan x="780" dy="36">出方案，长期陪跑</tspan></text>
+  </g>
+  <g id="directions" data-pptx-bounds="72 510 1136 96">
+    <rect id="directions-band" x="72" y="510" width="1136" height="96" fill="#F4F4F2"/>
+    <text x="104" y="546" font-size="18" fill="#D0021B">可以干预的方向</text>
+    <text x="104" y="590" font-size="30" fill="#111111">男性 <tspan fill="#D0021B" font-weight="bold">BMI 控制在 22 以下</tspan> · 控盐 · 戒烟 · 体重管理</text>
+  </g>
+  <g id="disclaimer" data-pptx-bounds="72 626 900 22">
+    <text x="72" y="642" font-size="15" fill="#8A8A8A">以上为科普讨论，不构成诊疗建议；个体情况请咨询专业医师</text>
+  </g>
+  <text id="page-number" data-pptx-role="page-number" x="1208" y="676" font-family="Arial" font-size="15" fill="#8A8A8A" text-anchor="end">11 / 16</text>
+</svg>

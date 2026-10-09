@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" data-pptx-page-role="content" font-family="Microsoft YaHei, Arial">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="page-header" data-pptx-bounds="72 66 960 106">
+    <rect id="title-rule" x="72" y="84" width="6" height="30" fill="#D0021B"/>
+    <text x="96" y="110" font-family="SimHei, Arial" font-size="46" fill="#111111">需求井喷：都是过亿的盘子</text>
+    <text x="72" y="158" font-size="24" fill="#5A5A5A">不是小众需求，是国家层面都在推的民生问题</text>
+  </g>
+  <line id="kpi-div-1" data-pptx-role="decoration" x1="446" y1="262" x2="446" y2="502" stroke="#D8D8D8" stroke-width="2"/>
+  <line id="kpi-div-2" data-pptx-role="decoration" x1="834" y1="262" x2="834" y2="502" stroke="#D8D8D8" stroke-width="2"/>
+  <g id="kpi-overweight" data-pptx-bounds="72 258 360 244">
+    <use data-icon="tabler-outline/scale-outline" x="72" y="262" width="36" height="36" fill="#D0021B" stroke-width="2"/>
+    <text x="72" y="396" font-family="Arial Black, SimHei" font-size="84" fill="#111111">50.7%</text>
+    <text x="72" y="452" font-size="24" fill="#111111">成人超重 / 肥胖占比</text>
+    <text x="72" y="488" font-size="18" fill="#5A5A5A">对应约 7 亿人，已经过半</text>
+  </g>
+  <g id="kpi-gout" data-pptx-bounds="460 258 360 244">
+    <use data-icon="tabler-outline/bone" x="460" y="262" width="36" height="36" fill="#D0021B" stroke-width="2"/>
+    <text x="460" y="396" font-family="Arial Black, SimHei" font-size="84" fill="#111111">过亿</text>
+    <text x="460" y="452" font-size="24" fill="#111111">高尿酸 / 痛风人群</text>
+    <text x="460" y="488" font-size="18" fill="#5A5A5A">20 多岁就已常见，明显年轻化</text>
+  </g>
+  <g id="kpi-chronic" data-pptx-bounds="848 258 360 244">
+    <use data-icon="tabler-outline/trending-up-2" x="848" y="262" width="36" height="36" fill="#D0021B" stroke-width="2"/>
+    <text x="848" y="396" font-family="Arial Black, SimHei" font-size="84" fill="#D0021B">井喷</text>
+    <text x="848" y="452" font-size="24" fill="#111111">糖尿病 · 高血压</text>
+    <text x="848" y="488" font-size="18" fill="#5A5A5A">患病人数持续增长，长期用药</text>
+  </g>
+  <g id="takeaway" data-pptx-bounds="72 540 1136 72">
+    <rect id="takeaway-band" x="72" y="540" width="1136" height="72" fill="#D0021B" fill-opacity="0.07"/>
+    <text x="104" y="586" font-size="30" fill="#111111">需求是真实的，供给端却只有手术和药物</text>
+  </g>
+  <text id="page-number" data-pptx-role="page-number" x="1208" y="676" font-family="Arial" font-size="15" fill="#8A8A8A" text-anchor="end">05 / 16</text>
+</svg>

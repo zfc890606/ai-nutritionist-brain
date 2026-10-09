@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" data-pptx-page-role="content" font-family="Microsoft YaHei, Arial">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="page-header" data-pptx-bounds="72 66 1000 106">
+    <rect id="title-rule" x="72" y="84" width="6" height="30" fill="#D0021B"/>
+    <text x="96" y="110" font-family="SimHei, Arial" font-size="46" fill="#111111">第二样：人才平台 —— 你只做两件事</text>
+    <text x="72" y="158" font-size="24" fill="#5A5A5A">伙伴办卡开店，不用你发工资、算钱、报税</text>
+  </g>
+  <g id="your-job" data-pptx-bounds="72 210 460 190">
+    <g id="p15-card-do" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip2DiagRect" data-pptx-frame="72 210 460 190" data-pptx-av-adj2="val 8000" fill="#F4F4F2" stroke="none">
+      <path d="M 72 210 L 516.8 210 L 532 225.2 L 532 400 L 532 400 L 87.2 400 L 72 384.8 L 72 210 Z"/>
+    </g>
+    <text x="104" y="252" font-size="18" fill="#D0021B">你的两件事</text>
+    <text x="104" y="308" font-family="SimHei, Arial" font-size="32" fill="#111111">获客 + 带人</text>
+    <text x="104" y="352" font-size="18" fill="#5A5A5A">其余的都交给平台</text>
+  </g>
+  <g id="platform-job" data-pptx-bounds="748 210 460 190">
+    <g id="p15-card-platform" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="snip2DiagRect" data-pptx-frame="748 210 460 190" data-pptx-av-adj2="val 8000" fill="#F4F4F2" stroke="none">
+      <path d="M 748 210 L 1192.8 210 L 1208 225.2 L 1208 400 L 1208 400 L 763.2 400 L 748 384.8 L 748 210 Z"/>
+    </g>
+    <text x="780" y="252" font-size="18" fill="#D0021B">平台替你做的</text>
+    <text x="780" y="308" font-family="SimHei, Arial" font-size="32" fill="#111111">算钱 · 发钱 · 税务</text>
+    <text x="780" y="352" font-size="18" fill="#5A5A5A">不用开公司，不用垫工资</text>
+  </g>
+  <g id="scale-math" data-pptx-bounds="72 450 1136 160">
+    <rect id="scale-band" x="72" y="450" width="1136" height="160" fill="#F4F4F2"/>
+    <text x="104" y="494" font-size="18" fill="#D0021B">算一笔账</text>
+    <text x="104" y="550" font-size="30" fill="#111111">一个人一年做 1000 万，是干不动的<tspan x="104" dy="46"><tspan fill="#D0021B" font-weight="bold">100 个人，每人 10 万</tspan>，就很轻松</tspan></text>
+  </g>
+  <text id="page-number" data-pptx-role="page-number" x="1208" y="676" font-family="Arial" font-size="15" fill="#8A8A8A" text-anchor="end">15 / 16</text>
+</svg>
