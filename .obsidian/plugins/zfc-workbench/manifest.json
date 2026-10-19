@@ -1,0 +1,9 @@
+{
+	"id": "zfc-workbench",
+	"name": "张医生工作台",
+	"version": "1.0.0",
+	"minAppVersion": "1.4.0",
+	"description": "内容生产流程台：视频号 / 公众号 / 朋友圈 / 知识入库 / 张大侠档案 / 社群微课，点开即操作。",
+	"author": "张医生",
+	"isDesktopOnly": false
+}
