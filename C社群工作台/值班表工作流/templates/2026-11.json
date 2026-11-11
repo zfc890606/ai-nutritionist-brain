@@ -1,0 +1,120 @@
+{
+  "period": "2026.11.2 — 12.6",
+  "output": "../公益群:共修群运营值班表-2026-11-模板.xlsx",
+  "groups": {
+    "公益群": {
+      "sheet": "健康公益群",
+      "theme": "green",
+      "checkin": "每日早晚营养餐打卡，日常活群",
+      "weeks": [
+        {
+          "week": "第一周",
+          "date": "11.2 - 8",
+          "host": "待定",
+          "mc": "待定",
+          "poster": "待定",
+          "koc": "周二KOC故事分享会（待定）",
+          "course": "待定",
+          "lecturer": "待定"
+        },
+        {
+          "week": "第二周",
+          "date": "11.9 - 15",
+          "host": "待定",
+          "mc": "待定",
+          "poster": "待定",
+          "koc": "待定",
+          "course": "待定",
+          "lecturer": "待定"
+        },
+        {
+          "week": "第三周",
+          "date": "11.16 - 22",
+          "host": "待定",
+          "mc": "待定",
+          "poster": "待定",
+          "koc": "待定",
+          "course": "待定",
+          "lecturer": "待定"
+        },
+        {
+          "week": "第四周",
+          "date": "11.23 - 29",
+          "host": "待定",
+          "mc": "待定",
+          "poster": "待定",
+          "koc": "待定",
+          "course": "待定",
+          "lecturer": "待定"
+        },
+        {
+          "week": "第五周",
+          "date": "11.30 - 12.6",
+          "host": "待定",
+          "mc": "待定",
+          "poster": "待定",
+          "koc": "待定",
+          "course": "待定",
+          "lecturer": "待定"
+        }
+      ]
+    },
+    "共修群": {
+      "sheet": "健康共修群",
+      "theme": "blue",
+      "checkin": "每日早晚营养餐打卡",
+      "weeks": [
+        {
+          "week": "第一周",
+          "date": "11.2 - 8",
+          "host": "待定",
+          "mc": "待定",
+          "poster": "待定",
+          "koc": "周二KOC故事分享会（待定）",
+          "course": "待定",
+          "lecturer": "待定"
+        },
+        {
+          "week": "第二周",
+          "date": "11.9 - 15",
+          "host": "待定",
+          "mc": "待定",
+          "poster": "待定",
+          "koc": "待定",
+          "course": "待定",
+          "lecturer": "待定"
+        },
+        {
+          "week": "第三周",
+          "date": "11.16 - 22",
+          "host": "待定",
+          "mc": "待定",
+          "poster": "待定",
+          "koc": "待定",
+          "course": "待定",
+          "lecturer": "待定"
+        },
+        {
+          "week": "第四周",
+          "date": "11.23 - 29",
+          "host": "待定",
+          "mc": "待定",
+          "poster": "待定",
+          "koc": "待定",
+          "course": "待定",
+          "lecturer": "待定"
+        },
+        {
+          "week": "第五周",
+          "date": "11.30 - 12.6",
+          "host": "待定",
+          "mc": "待定",
+          "poster": "待定",
+          "koc": "待定",
+          "course": "待定",
+          "lecturer": "待定"
+        }
+      ]
+    }
+  }
+}

@@ -94,7 +94,7 @@
 
 1. **克隆仓库**
    ```bash
-   git clone https://github.com/zfc890606/ai-nutritionist-brain.git
+   git clone https://github.com/zfc890606/zfc-amway-system-vault.git
    ```
 2. **用 Obsidian 打开**本仓库根目录作为 Vault
 3. 从 [总控台/index.md](总控台/index.md) 或 [F技能库skill/README.md](F技能库skill/README.md) 开始浏览

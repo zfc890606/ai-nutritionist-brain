@@ -1,6 +1,6 @@
 ---
 created: 2026-10-05
-updated: 2026-10-05
+updated: 2026-10-19
 tags:
   - 营养/前沿
   - 信息源
@@ -32,6 +32,7 @@ tags:
 
 | 期次 | 标题 | 覆盖期刊 | 本期主打 |
 |:---|:---|:---|:---|
+| 2026-10（周度增补） | [[A知识沉淀大脑/05-营养前沿信息/📡营养学前沿速递-202610\|📡营养学前沿速递 · 2026年10月]] | Nature · Nature Communications · JAMA Network Open · PLoS Medicine · Nutrients · British Journal of Nutrition · Frontiers in Nutrition · FDA | 限时进食不额外减肝脂 · 超加工食品双研究（脑损伤+肠癌）· 肌少症营养组合 · 老年植物饮食质量 |
 | 2026-08 | [[A知识沉淀大脑/05-营养前沿信息/📡营养学前沿速递-202608\|📡营养学前沿速递 · 2026年8月]] | JAMA Network Open · Alzheimer's & Dementia · JNNP · The Lancet · AJPH · Diabetes Care · Food Science & Nutrition · JCI Insight | 大脑健康营养专题 · 超加工食品三连击 · GLP-1减重掉肌肉 · AI精准营养 |
 | 2026-07 | [[A知识沉淀大脑/05-营养前沿信息/📡营养学前沿速递-202607\|📡营养学前沿速递 · 2026年7月]] | The Lancet · JAMA · Nature Communications · Nutrients · BMC Medicine · European Journal of Nutrition · Element | 蛋白摄入与死亡率 · EAT-Lancet饮食 · 中国慢病精准营养框架 · MIND饮食降痴呆 |
 

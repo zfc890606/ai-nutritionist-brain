@@ -5,5 +5,5 @@
 ## 调用清单
 - `wewrite` 系列（write / publish / review / rewrite / stats / topic / style / visual / learn）
 - `gzh-AI-Design-skill` — 公众号排版/配图设计
-- `humanizer-zh`（共享）→ 物理副本：[[B自媒体大脑/01-视频号创作/创作Skill/humanizer-zh/README]]
+- **`sepia` + `humanizer-zh` 双引擎去 AI 味（主力）** → sepia：[[F技能库skill/02-其他技能/sepia/README]]（review→refactor，先修结构）；humanizer-zh：[[B自媒体大脑/01-视频号创作/创作Skill/humanizer-zh/README]]（再扫中文词句）
 - `content-risk-detector`（共享）→ 物理副本：[[B自媒体大脑/01-视频号创作/创作Skill/content-risk-detector/README]]

@@ -14,3 +14,11 @@
 | html-ppt-skill | HTML 演示页（浏览器播放、可动效） | 仅存档 |
 | notebooklm-slide-prompts | 20+ 幻灯片视觉风格提示词库 | 仅存档 |
 | banana-slides | 第三方 AI PPT 应用说明 | 仅存档 |
+
+## 02-其他技能 明细
+
+| 目录 | 作用 | 状态 |
+|:---|:---|:---|
+| **sepia + humanizer-zh** | 双引擎去 AI 味：sepia 先修结构（write / review / refactor / recreate 四操作 + 5 个入口，非虚构按文体路由，中文加载 `references/languages/zh.md`），humanizer-zh 再扫中文词句（24 条）。01–05 创作模块统一调用 · 用法见 [[F技能库skill/02-其他技能/sepia/使用说明\|使用说明]] | ✅ 已激活（sepia 6 个软链） |
+| openscreen | 录屏/演示工具说明 | 仅存档 |
+| gemini使用工具教程 | Gemini 代理配置与账号设置 | 仅存档 |

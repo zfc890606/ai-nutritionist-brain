@@ -1,5 +1,7 @@
 # Humanizer-zh: AI 写作去痕工具（中文版）
 
+> **✅ 2026-11-11 起与 `sepia` 组合使用（双引擎）**：五个创作模块（视频号 / 公众号 / 小红书 / 超级个体口播 / 朋友圈）统一走两道——先用 [[F技能库skill/02-其他技能/sepia/README|sepia]]（review→refactor·中文加载 zh.md）修结构，再用本工具扫中文词句（24 条 AI 痕迹）。顺序不能反：先结构，后词句。
+
 > **声明：**
 > - 本项目的核心文件翻译自 [blader/humanizer](https://github.com/blader/humanizer/tree/main)
 > - 实用工具部分（核心规则、快速检查清单、质量评分）参考了 [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop)
