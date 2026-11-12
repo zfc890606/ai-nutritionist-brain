@@ -54,17 +54,36 @@
 	letter-spacing: .02em;
 }
 
-.zfc-library-sub {
-	font-size: .78em;
-	color: rgba(255, 255, 255, .5);
-	letter-spacing: .02em;
-}
-
 .zfc-library-list {
 	display: flex;
-	flex-wrap: wrap;
-	gap: 8px;
+	flex-direction: column;
+	gap: 9px;
 	flex: 1;
+	min-width: 0;
+}
+
+.zfc-library-row {
+	display: flex;
+	align-items: center;
+	gap: 10px;
+}
+
+.zfc-library-tag {
+	flex: 0 0 auto;
+	width: 9em;
+	font-size: .74em;
+	font-weight: 700;
+	letter-spacing: .04em;
+	color: rgba(255, 255, 255, .42);
+	white-space: nowrap;
+}
+
+.zfc-library-items {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	gap: 8px;
+	min-width: 0;
 }
 
 .zfc-library-btn {
@@ -100,28 +119,139 @@
 	color: #fff;
 }
 
-.zfc-library-find {
-	margin-left: auto;
+.zfc-library-mine-btn {
+	box-sizing: border-box;
+	min-width: 7.8em;
+	text-align: center;
 	padding: 11px 22px;
-	border: 1px solid rgba(255, 255, 255, .18);
+	background: transparent;
 	border-radius: 10px;
-	background: #3a3c44;
-	color: #fff;
-	font-weight: 700;
+	font-weight: 800;
 	font-size: .95em;
-	white-space: nowrap;
-	flex-shrink: 0;
 	cursor: pointer;
-	box-shadow: 0 4px 14px rgba(0, 0, 0, .3);
 	transition: background .15s ease, transform .15s ease;
 }
 
-.zfc-library-find:hover {
-	background: #4a4d57;
-	color: #fff;
+.zfc-library-mine-btn:hover {
 	transform: translateY(-1px);
 }
 
+.zfc-library-mine {
+	border: 1.5px solid rgba(232, 177, 58, .75);
+	color: #f0c05a;
+}
+
+.zfc-library-mine:hover {
+	background: rgba(232, 177, 58, .12);
+	color: #ffd97a;
+}
+
+.zfc-library-gzh {
+	border: 1.5px solid rgba(110, 235, 180, .7);
+	color: #8ef0c2;
+}
+
+.zfc-library-gzh:hover {
+	background: rgba(110, 235, 180, .12);
+	color: #b4ffdc;
+}
+
+/* ---------- 前沿信息速递 ---------- */
+.zfc-frontier {
+	display: flex;
+	align-items: center;
+	gap: 18px;
+	background: #17181c;
+	border: 1.5px solid rgba(91, 123, 213, .5);
+	border-radius: 16px;
+	padding: 18px 22px;
+	margin-bottom: 22px;
+	box-shadow: 0 12px 34px rgba(0, 0, 0, .28), 0 0 24px rgba(91, 123, 213, .12);
+	color: #fff;
+}
+
+.zfc-frontier-head {
+	flex-shrink: 0;
+	padding-right: 18px;
+	border-right: 1px solid rgba(255, 255, 255, .12);
+}
+
+.zfc-frontier-title {
+	font-weight: 700;
+	font-size: 1.3em;
+	color: #9db4ff;
+	letter-spacing: .02em;
+}
+
+.zfc-frontier-sub {
+	margin-top: 2px;
+	font-size: .78em;
+	color: rgba(255, 255, 255, .5);
+	letter-spacing: .02em;
+}
+
+.zfc-frontier-list {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 12px;
+	flex: 1;
+	min-width: 0;
+}
+
+.zfc-frontier-btn {
+	display: flex;
+	align-items: center;
+	gap: 12px;
+	flex: 1 1 260px;
+	min-width: 0;
+	text-align: left;
+	padding: 12px 16px;
+	border-radius: 12px;
+	background: #23252b;
+	border: 1px solid rgba(255, 255, 255, .1);
+	border-left: 4px solid var(--frontier-color, #5b7bd5);
+	color: #fff;
+	cursor: pointer;
+	transition: background .15s ease, transform .15s ease, border-color .15s ease;
+}
+
+.zfc-frontier-btn:hover {
+	background: #2e313a;
+	transform: translateY(-1px);
+	border-color: rgba(255, 255, 255, .24);
+	border-left-color: var(--frontier-color, #5b7bd5);
+}
+
+.zfc-frontier-icon {
+	display: flex;
+	align-items: center;
+	flex-shrink: 0;
+	color: var(--frontier-color, #5b7bd5);
+}
+
+.zfc-frontier-body {
+	flex: 1;
+	min-width: 0;
+}
+
+.zfc-frontier-name {
+	font-weight: 700;
+	font-size: .95em;
+}
+
+.zfc-frontier-desc {
+	margin-top: 2px;
+	font-size: .78em;
+	color: rgba(255, 255, 255, .5);
+}
+
+.zfc-frontier-arrow {
+	flex-shrink: 0;
+	font-weight: 700;
+	color: var(--frontier-color, #5b7bd5);
+}
+
+/* ---------- 卡片网格 ---------- */
 .zfc-grid {
 	display: grid;
 	grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -204,11 +334,13 @@
 }
 
 @media (max-width: 900px) {
-	.zfc-library {
+	.zfc-library,
+	.zfc-frontier {
 		flex-wrap: wrap;
 	}
 
-	.zfc-library-head {
+	.zfc-library-head,
+	.zfc-frontier-head {
 		width: 100%;
 		flex-direction: row;
 		align-items: baseline;
@@ -217,13 +349,14 @@
 		border-right: none;
 	}
 
-	.zfc-library-list {
-		width: 100%;
-		flex: none;
+	.zfc-frontier-sub {
+		display: inline;
 	}
 
-	.zfc-library-find {
-		margin-left: 0;
+	.zfc-library-list,
+	.zfc-frontier-list {
+		width: 100%;
+		flex: none;
 	}
 }
 
@@ -232,12 +365,21 @@
 		grid-template-columns: 1fr;
 	}
 
-	.zfc-library-find {
-		margin-left: 0;
+	.zfc-library-row {
+		flex-wrap: wrap;
 	}
 
-	.zfc-library-sub {
-		display: none;
+	.zfc-library-tag {
+		width: 100%;
+	}
+
+	.zfc-library-mine-btn {
+		min-width: 0;
+		flex: 1 1 auto;
+	}
+
+	.zfc-frontier-btn {
+		flex: 1 1 100%;
 	}
 }
 
