@@ -1,0 +1,82 @@
+/* ---------- 面板按钮 ---------- */
+.zfc-undo-btn {
+	display: inline-flex;
+	align-items: center;
+	gap: 4px;
+	flex-shrink: 0;
+	margin-right: 6px;
+	padding: 3px 9px;
+	border: 1px solid var(--background-modifier-border);
+	border-radius: 6px;
+	background: var(--background-secondary);
+	color: var(--text-muted);
+	font-size: .74em;
+	font-weight: 600;
+	line-height: 1.4;
+	cursor: pointer;
+	transition: background .15s ease, color .15s ease, border-color .15s ease;
+}
+
+.zfc-undo-btn:hover {
+	background: var(--background-modifier-hover);
+	color: var(--text-normal);
+	border-color: var(--interactive-accent);
+}
+
+.zfc-undo-btn .zfc-undo-icon {
+	display: flex;
+	align-items: center;
+}
+
+.zfc-undo-btn .zfc-undo-icon svg {
+	width: 13px;
+	height: 13px;
+}
+
+.zfc-undo-btn.is-done {
+	background: var(--interactive-accent);
+	color: var(--text-on-accent);
+	border-color: var(--interactive-accent);
+}
+
+/* ---------- 历史版本弹窗 ---------- */
+.zfc-undo-hint {
+	color: var(--text-muted);
+	font-size: 13px;
+	margin: 0 0 12px;
+}
+
+.zfc-undo-list {
+	display: flex;
+	flex-direction: column;
+	gap: 8px;
+	max-height: 60vh;
+	overflow-y: auto;
+}
+
+.zfc-undo-row {
+	padding: 10px 12px;
+	border: 1px solid var(--background-modifier-border);
+	border-radius: 8px;
+	cursor: pointer;
+}
+
+.zfc-undo-row:hover {
+	background: var(--background-modifier-hover);
+	border-color: var(--interactive-accent);
+}
+
+.zfc-undo-time {
+	font-size: 13px;
+	font-weight: 600;
+	color: var(--text-normal);
+	margin-bottom: 4px;
+}
+
+.zfc-undo-preview {
+	font-size: 12px;
+	color: var(--text-muted);
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}

@@ -4,5 +4,6 @@
   "dataview",
   "obsidian-advanced-uri",
   "obsidian-local-rest-api",
-  "zfc-workbench"
+  "zfc-workbench",
+  "zfc-undo"
 ]

@@ -1,0 +1,9 @@
+{
+  "id": "zfc-undo",
+  "name": "撤销按钮",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "每个文档面板标题栏一个「撤销」按钮：一键恢复到改动前的文案，自己改的和 AI 改的都算。",
+  "author": "张医生",
+  "isDesktopOnly": false
+}
